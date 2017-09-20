@@ -1,0 +1,25 @@
+{
+  "name": "bayad_khand",
+  "version": "1.0.0",
+  "description": "bot for borrowing  books",
+  "main": "bot.js",
+  "scripts": {
+    "test": "nothing",
+	"start":"node bot.js",
+    "dev" : "nodemon bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maryamEbrahimzadeh/Bayad_khand.git"
+  },
+  "keywords": [
+    "book",
+    "borrow"
+  ],
+  "author": "maryam.ebrahimzadeh & fatemeh sadat hashemi golpaygani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maryamEbrahimzadeh/Bayad_khand/issues"
+  },
+  "homepage": "https://github.com/maryamEbrahimzadeh/Bayad_khand#readme"
+}
